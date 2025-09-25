@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides quizzes on neural plasticity in learning and development.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

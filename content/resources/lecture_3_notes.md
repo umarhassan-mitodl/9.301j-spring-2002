@@ -4,6 +4,8 @@ description: Lecture notes on synaptic transmission.
 file: /courses/9-301j-neural-plasticity-in-learning-and-development-spring-2002/216f8462191da97d5cb5c55685be12a7_lecture_3_Notes.pdf
 file_size: 101308
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
