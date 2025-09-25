@@ -5,6 +5,8 @@ description: Quiz on the mechanisms proposed for vertebrate and invertebrate syn
 file: /courses/9-301j-neural-plasticity-in-learning-and-development-spring-2002/dcf0195aaef19e8ed51ee9b64e81c7d8_quiz3.pdf
 file_size: 66027
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

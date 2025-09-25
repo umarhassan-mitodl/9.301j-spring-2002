@@ -4,6 +4,8 @@ description: Quiz on invertebrate learning.
 file: /courses/9-301j-neural-plasticity-in-learning-and-development-spring-2002/3f2d0195d36933f68ed9c7d1803e4cad_quiz2.pdf
 file_size: 83390
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

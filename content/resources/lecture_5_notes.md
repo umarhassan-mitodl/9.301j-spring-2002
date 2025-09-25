@@ -4,6 +4,8 @@ description: Lecture notes on expression of plasticity.
 file: /courses/9-301j-neural-plasticity-in-learning-and-development-spring-2002/4fe6bdf8093a69676d6c920ffacf3b8b_lecture_5_Notes.pdf
 file_size: 178766
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

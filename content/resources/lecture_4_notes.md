@@ -6,6 +6,8 @@ description: Lecture notes on experimental approaches to determine the strength 
 file: /courses/9-301j-neural-plasticity-in-learning-and-development-spring-2002/74519c6ef77bf8b0b9360e3fecd0ee26_lecture_4_Notes.pdf
 file_size: 101918
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

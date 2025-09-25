@@ -5,6 +5,8 @@ description: Quiz on primate learning and memory, working memory, and behavior-g
 file: /courses/9-301j-neural-plasticity-in-learning-and-development-spring-2002/b7e16c7aeefa9b0075f43086a94de9e9_quiz5.pdf
 file_size: 62929
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

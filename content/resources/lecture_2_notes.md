@@ -4,6 +4,8 @@ description: Lecture notes on behavior, plasticity, and categories of learning.
 file: /courses/9-301j-neural-plasticity-in-learning-and-development-spring-2002/2bc4f6bbbb7c0795e427a6600db65685_lecture_2_notes.pdf
 file_size: 172236
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
