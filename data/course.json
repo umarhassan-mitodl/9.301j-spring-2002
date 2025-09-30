@@ -36,6 +36,7 @@
     "website": "9-301j-neural-plasticity-in-learning-and-development-spring-2002"
   },
   "course_title": "Neural Plasticity in Learning and Development",
+  "hide_download": true,
   "course_description": "Roles of neural plasticity in learning and memory and in development of invertebrates and mammals. An in-depth critical analysis of current literature of molecular, cellular, genetic, electrophysiological, and behavioral studies. Discussion of original papers supplemented by introductory lectures.\n",
   "department_numbers": [
     "9",
@@ -47,6 +48,7 @@
     "content": "a6718105-5736-a526-f6b7-12222c9a22d3",
     "website": "9-301j-neural-plasticity-in-learning-and-development-spring-2002"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Activity Assignments"
